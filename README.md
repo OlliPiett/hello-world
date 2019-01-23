@@ -1,3 +1,3 @@
 # hello-world
 First thing
-Commit message
+Hello! I would like to learn JavaScript and Web applications.
